@@ -1,0 +1,4 @@
+openerp
+=======
+
+Hacks over OpenERP
